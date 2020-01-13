@@ -1,0 +1,10 @@
+Package: GMT.File.HGNC
+Type: Package
+Title: HGNC gmt File
+Version: 0.1.0
+Author: Hunter Eby  
+Maintainer: Hunter Eby <yourself@somewhere.net>
+Description: HGNC provides gene familes, we have curtaed them to gene sets used for GSEA, this package simply loads a gmt file used in R shiny
+License: MIT
+Encoding: UTF-8
+LazyData: true
